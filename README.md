@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritvik-soni&label=Profile%20views&color=0e75b6&style=flat" alt="hritvik-soni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hritvik-soni" alt="hritvik-soni" /></a> </p>
-
 - 🔭 I’m currently working on **Java , Spring Boot , Hibernate , MySql**
 
 - 🌱 I’m currently learning **Html, CSS, JavaScript, Bootstrap**
