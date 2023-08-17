@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hritviksoni768@gmail.com**
 
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">Connect with me:<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> </h3>
+<h3 align="left"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/hritvik-soni" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hritvik-soni"  width="43" /></a>
 <a href="https://www.hackerrank.com/hritviksoni768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hritviksoni768" height="30" width="40" /></a>
