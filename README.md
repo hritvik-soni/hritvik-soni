@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Hritvik soni</h1>
+<!-- <img align="center" src="https://github.com/hritvik-soni/hritvik-soni/blob/main/data/productive.gif" /> -->
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25">, I'm Hritvik soni <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /></h1>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 <h3 align="center">A passionate Java Backend developer from India highly motivated and dedicated fresher Java Backend Developer with a strong foundation in computer science and a passion for crafting efficient, scalable, and reliable server-side applications. Eager to contribute to a dynamic team and leverage my skills in Java programming, database management, and problem-solving to create innovative and robust software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritvik-soni&label=Profile%20views&color=0e75b6&style=flat" alt="hritvik-soni" /> </p>
 
-- 🔭 I’m currently working on **Java , Spring Boot , Hibernate , MySql**
+- 🔭 I’m currently working on **Java , Spring Boot , Hibernate , MySql** 
 
 - 🌱 I’m currently learning **Html, CSS, JavaScript, Bootstrap**
 
 - 📫 How to reach me **hritviksoni768@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">Connect with me:<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> </h3>
 <p align="left">
-<a href="https://linkedin.com/in/hritvik-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hritvik-soni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hritvik-soni" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="hritvik-soni"  width="43" /></a>
 <a href="https://www.hackerrank.com/hritviksoni768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hritviksoni768" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hritviksoni768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hritviksoni768" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hritviksoni768/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hritviksoni768/practice" height="30" width="40" /></a>
@@ -25,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritvik-soni&show_icons=true&locale=en" alt="hritvik-soni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritvik-soni&" alt="hritvik-soni" /></p>
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
