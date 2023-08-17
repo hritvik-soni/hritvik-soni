@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /> Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25">, I'm Hritvik soni <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" /></h1>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
 
 <h3 align="center">A passionate Java Backend developer from India highly motivated and dedicated fresher Java Backend Developer with a strong foundation in computer science and a passion for crafting efficient, scalable, and reliable server-side applications. Eager to contribute to a dynamic team and leverage my skills in Java programming, database management, and problem-solving to create innovative and robust software solutions.</h3>
