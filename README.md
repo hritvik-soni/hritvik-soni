@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hritvik soni</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">A passionate Java Backend developer from India highly motivated and dedicated fresher Java Backend Developer with a strong foundation in computer science and a passion for crafting efficient, scalable, and reliable server-side applications. Eager to contribute to a dynamic team and leverage my skills in Java programming, database management, and problem-solving to create innovative and robust software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritvik-soni&label=Profile%20views&color=0e75b6&style=flat" alt="hritvik-soni" /> </p>
 
