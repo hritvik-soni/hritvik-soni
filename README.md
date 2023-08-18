@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Html, CSS, JavaScript, Bootstrap**
 
-- 📫 How to reach me **hritviksoni768@gmail.com**
+<!-- - 📫 How to reach me **hritviksoni768@gmail.com** -->
 - 📄 Know about my experiences check out [Resume](https://docs.google.com/document/d/1YzIBXNRVAonfQFRPMqVoKl1t4DBKvi3VlFiawaZz8Ao/edit?usp=sharing) or [Portfolio](https://hritvik-soni.github.io/hritvik-soni/)
 
 <h3 align="left"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me:<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> </h3>
